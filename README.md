@@ -1,1 +1,1 @@
-Garbage items classification using VGG16
+Garbage recognition and classification system based on convolutional neural network VGG16 
