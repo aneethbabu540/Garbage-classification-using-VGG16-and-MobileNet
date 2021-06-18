@@ -1,1 +1,1 @@
-Garbage classification using VGG16
+Garbage items classification using VGG16
